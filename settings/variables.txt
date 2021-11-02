@@ -4,3 +4,5 @@ test_file="test_exercice.py"
 test_associations_path="settings/test_associations.json"
 org_name="INF1007-2021A"
 repo_filter="2021a-c01-ch8-exercices"
+
+
